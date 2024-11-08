@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning AI and its application 
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ssb.1989@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 nitmechanical/nitmechanical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
